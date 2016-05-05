@@ -2,7 +2,7 @@
 #include <iostream>
 #include <ctime>
 
-int main() {
+/*int main() {
 
 	std::clock_t starttime = clock();
 
@@ -26,4 +26,4 @@ int main() {
 		std::cout << i << std::endl;
 	}
 	return 0;
-}
+}*/
